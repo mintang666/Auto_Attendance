@@ -42,7 +42,7 @@
 
   在Name栏中输入大写字符串 **PASSWORD** ，在Value栏中输入你的[**中南大学统一身份认证平台**](http://ca.csu.edu.cn/authserver/login)的密码，点击Add secret按钮保存
 
-3. 启动定时打卡
+3. 启动定时打卡 
 
     方法一：手动开启工作流（推荐）
 
